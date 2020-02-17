@@ -1,9 +1,9 @@
 Coded by: Mohamed Masoud <mmasoud@emory.edu> , 2019 <br>
 
-## SlideMasking Demo
+## Slide Masking Demo
 <hr>
 
-SlideMask Demo is a webix based interactive learning envirement to binary classify WSI regions of interest. It produces the heatmap and mask for the regoin of interests. It can run on local WSI or access remotely images with OpenSeadragon.
+Slide Mask Demo is a webix based interactive learning environment to binary classify WSI regions of interest. It produces the heatmap and mask for the region of interests. It can run on local WSI or access remotely images with OpenSeadragon.
 
 
 ![Webix Interface](https://github.com/Mmasoud1/SlideMask/blob/master/ShowMe/Slide1.png)
@@ -16,9 +16,11 @@ SlideMask Demo is a webix based interactive learning envirement to binary classi
 
 <hr>
 
+<hr>
+
 ## Whole Slide Images Registration Demo
 
-Demo shows registeration of whole slide images after preprocessing them. It can run on local or remotely images with OpenSeadragon.
+Demo shows registration of whole slide images after preprocessing them. It can run on local or remotely images with OpenSeadragon.
 
 
 ![Interface](https://github.com/Mmasoud1/DSA_OSD_Registration/blob/master/RegisterInterface.png)
@@ -27,13 +29,17 @@ Demo shows registeration of whole slide images after preprocessing them. It can 
 
 <hr>
 
-## AnnotationsApp Demo
+<hr>
+
+## Annotations App Demo
 
 Demo shows cell masks of Tonsil example `TONSIL-1_40X_cellMask.tif` . 
 
 
 ![App Video](https://github.com/Mmasoud1/AnnotationsApp_v1/blob/master/ShowMe/Tonsil_Mask_UploadDemo.gif)
 
+
+<hr>
 
 <hr>
 
@@ -47,12 +53,16 @@ Demo  shows compositing and blending of OME files of whole slide image frames .
 
 <hr>
 
-## Tree Based Whole Slide Images Galaries and Overlaying Demo
+<hr>
+
+## Tree Based Whole Slide Images Galleries and Overlaying Demo
 
 Demo shows tree based panel for whole slide images selection and overlaying from the server.
 
 ![Interface](https://github.com/Mmasoud1/imageOrganizerBasic/blob/master/ShowMe/Interface.gif)
 
+
+<hr>
 
 <hr>
 

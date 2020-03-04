@@ -71,7 +71,7 @@ Demo shows a proof on concept of blending OME Frames.
 
 ![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/TreeBasedMultiplexViewer/Interface.gif)
 
-Demo reproducing CyCif interface to integrate it with STYX and blending OME backbones.
+Demo reproducing CyCIF visualization to integrate it with STYX and blending OME backbones.
 
 ![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/TreeBasedMultiplexViewer/STYX-OME-Demo.gif)
 

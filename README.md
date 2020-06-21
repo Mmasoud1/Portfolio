@@ -73,9 +73,9 @@ Demo shows a proof on concept of blending OME Frames.
 
 <hr>
 
-Demo reproducing CyCIF visualization to integrate it with STYX and blending OME backbones.
+Demo visualize  OME Channel Organizer functionality.
 
-![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/TreeBasedMultiplexViewer/STYX-OME-Demo.gif)
+![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/OMEChannelOrg/OMEDemo.gif)
 
 
 

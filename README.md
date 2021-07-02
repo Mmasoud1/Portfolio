@@ -78,6 +78,15 @@ Demo visualize  OME Channel Organizer functionality.
 ![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/OMEChannelOrg/OMEDemo.gif)
 
 
+<hr>
+
+<hr>
+
+## Whole Brain Inference at the Browser
+
+Demo shows segmenation of 3D brain MRI at the browser based on a pretrained MeshNet model.
+
+![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/BrainInference/BrainSeg.gif)
 
 
 

@@ -88,7 +88,7 @@ Demo shows segmenation of 3D brain MRI at the browser based on a pretrained Mesh
 
 ![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/BrainInference/BrainSeg.gif)
 
-
+![Interface](https://github.com/Mmasoud1/Portfolios/blob/master/ShowMe/BrainInference/SimpleUI_Demo.gif)
 
 
 

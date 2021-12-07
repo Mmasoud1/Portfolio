@@ -1,4 +1,4 @@
-Coded by: Mohamed Masoud <mmasoud@emory.edu> , 2019 <br>
+Coded by: Mohamed Masoud <mmasoud2@outlook.com> , 2019 <br>
 
 ## Slide Masking Demo
 <hr>
